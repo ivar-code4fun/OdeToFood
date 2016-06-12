@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{F298A855-6E61-49A2-8383-C50F81E5A8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Tests", "OdeToFood.Tests\OdeToFood.Tests.csproj", "{7913C10F-BB84-4BDD-BA96-60F7B41C291C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F298A855-6E61-49A2-8383-C50F81E5A8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F298A855-6E61-49A2-8383-C50F81E5A8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F298A855-6E61-49A2-8383-C50F81E5A8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F298A855-6E61-49A2-8383-C50F81E5A8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7913C10F-BB84-4BDD-BA96-60F7B41C291C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7913C10F-BB84-4BDD-BA96-60F7B41C291C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7913C10F-BB84-4BDD-BA96-60F7B41C291C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7913C10F-BB84-4BDD-BA96-60F7B41C291C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
