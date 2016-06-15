@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: #333;
+    background-color: #fff;
     border-top: solid 10px #000;
-    color: #fff;
+    color: #333;
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
     margin: 0;
@@ -632,9 +632,9 @@ tr.pager td {
             padding: 0;
         }
 
-        #login a:hover {
-            color: #333;
-        }
+            #login a:hover {
+                color: #333;
+            }
 
     /* menu */
     nav {
@@ -699,12 +699,12 @@ tr.pager td {
                 background: none;
             }
 
-     /* features */
-     section.feature {
+    /* features */
+    section.feature {
         float: none;
         padding: 10px;
         width: auto;
-     }
+    }
 
         section.feature img {
             color: #999;
@@ -754,3 +754,19 @@ tr.pager td {
             margin: 0;
         }
 }
+
+    .review {
+        padding:2px;
+        border-bottom:2px solid black;
+        padding-bottom:10px;
+    }
+
+        .review h4 {
+            color: maroon;
+            padding:5px;
+            background: #cccc99
+        }
+
+        .review p {
+            font-size: .8em;
+        }
